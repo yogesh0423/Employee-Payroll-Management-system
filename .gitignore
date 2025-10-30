@@ -1,27 +1,32 @@
-
 # Ignore database files
 *.db
 
+# Ignore Python cache and compiled files
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
+# Ignore temporary or backup files
 *.log
 *.tmp
 *.bak
 
+# Ignore environment and virtualenv folders
 .env
 .venv/
 env/
 venv/
 
+# Ignore VS Code and IDE configuration folders
 .vscode/
 .idea/
 
+# Ignore system files (Windows / macOS)
 .DS_Store
 Thumbs.db
 
+# Ignore screenshots or large media (optional)
 screenshots/
 *.png
 *.jpg
