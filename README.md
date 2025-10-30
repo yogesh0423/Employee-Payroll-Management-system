@@ -56,7 +56,7 @@ Convert to a web-based application using Flask or Streamlit
 
 ## 👨‍💻 Author
 
-Yogesh D. Patil
+Yogesh Patil
 
 Third Year Engineering (AI & DS)
 
