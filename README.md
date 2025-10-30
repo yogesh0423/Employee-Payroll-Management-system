@@ -1,2 +1,34 @@
-# Employee-Payroll-Management-system
-This application helps manage employee details and payroll records efficiently through a simple graphical user interface. It demonstrates key database management concepts such as data storage, retrieval, and manipulation (CRUD operations).
+# 💼 Employee Payroll Management System
+
+A desktop-based **DBMS Mini Project** developed using **Python (Tkinter)** and **SQLite3**.  
+This application manages employee details such as name, department, position, and salary through a simple graphical interface.  
+It demonstrates database connectivity, CRUD operations, and GUI integration — ideal for academic use and learning database-driven application development.
+
+---
+
+## 🚀 Features
+
+✅ Add, View, Update, and Delete Employee Records  
+✅ Simple and Interactive Graphical User Interface (GUI)  
+✅ Secure Data Storage using SQLite Database  
+✅ Fast and Lightweight Desktop Application  
+✅ Demonstrates Core DBMS Concepts (Normalization, Relational Model)
+
+---
+
+## 🧠 Tech Stack
+
+| Component | Technology Used |
+|------------|----------------|
+| **Frontend (GUI)** | Python Tkinter |
+| **Backend (Logic)** | Python |
+| **Database** | SQLite3 |
+| **IDE (Recommended)** | VS Code / PyCharm / Jupyter Notebook |
+
+---
+
+## ⚙️ Installation and Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/Employee-Payroll-Management-System.git
