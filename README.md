@@ -41,7 +41,7 @@ It demonstrates database connectivity, CRUD operations, and GUI integration — 
    ```bash
    python payroll_system.py
 
-## GUI Screenshot
+## 📸 GUI Screenshot
 <img width="853" height="625" alt="Screenshot 2025-10-30 185550" src="https://github.com/user-attachments/assets/1e883068-bd70-4a07-b6b1-9409b5f33e8f" />
 
 ## 🧩 Future Enhancements
