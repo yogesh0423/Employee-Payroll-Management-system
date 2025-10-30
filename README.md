@@ -33,10 +33,10 @@ It demonstrates database connectivity, CRUD operations, and GUI integration — 
    ```bash
    git clone https://github.com/YOUR_USERNAME/Employee-Payroll-Management-System.git
 
-Navigate to the project folder
-
+2. **Navigate to the project folder**
+   ```bash
    cd Employee-Payroll-Management-System
 
-Run the application
-
+3. **Run the application**
+   ```bash
    python payroll_system.py
