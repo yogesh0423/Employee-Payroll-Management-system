@@ -32,3 +32,11 @@ It demonstrates database connectivity, CRUD operations, and GUI integration — 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/YOUR_USERNAME/Employee-Payroll-Management-System.git
+
+Navigate to the project folder
+
+   cd Employee-Payroll-Management-System
+
+Run the application
+
+   python payroll_system.py
